@@ -1,0 +1,1 @@
+* [Day_1](https://www.codingninjas.com/studio/problems/node-level_920383?leftPanelTabValue=SUBMISSION)
