@@ -6,3 +6,4 @@
 * [Day_4](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 * [Day_5](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 * [Day_6](https://leetcode.com/problems/longest-palindromic-substring/)
+* [Day_7](https://leetcode.com/problems/palindrome-number/)
