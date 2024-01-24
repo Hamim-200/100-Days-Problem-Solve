@@ -7,3 +7,5 @@
 * [Day_5](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 * [Day_6](https://leetcode.com/problems/longest-palindromic-substring/)
 * [Day_7](https://leetcode.com/problems/palindrome-number/)
+* [Day_8](https://leetcode.com/problems/roman-to-integer/)
+* [Day_9](https://leetcode.com/problems/longest-common-prefix/)
