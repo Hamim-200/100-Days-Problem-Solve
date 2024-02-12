@@ -13,3 +13,4 @@
 * [Day_11](https://leetcode.com/problems/zigzag-conversion/submissions/)
 * [Day_12](https://leetcode.com/problems/island-perimeter/)
 * [Day_13](https://leetcode.com/problems/reverse-integer/)
+* [Day_14](https://leetcode.com/studyplan/30-days-of-javascript/)
