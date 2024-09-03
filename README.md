@@ -15,3 +15,5 @@
 * [Day_13](https://leetcode.com/problems/reverse-integer/)
 * [Day_14](https://leetcode.com/studyplan/30-days-of-javascript/)
 * [Day_15](https://neetcode.io/problems/duplicate-integer)
+* [Day_16](https://leetcode.com/problems/valid-anagram/)
+* [Day_17](https://leetcode.com/problems/two-sum/)
