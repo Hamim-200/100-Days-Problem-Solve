@@ -1,7 +1,6 @@
 # count special characters in a string (! , . @ # $ etc)
 
 text = "Hi! I am Hamim, 25 years old.@#"
-
 special_count = 0
 
 for ch in text:
@@ -9,3 +8,9 @@ for ch in text:
         special_count += 1
 
 print(special_count)
+
+
+# Removing all whitespace in a String
+
+new_removing_text = text.replace(" ","")
+print(new_removing_text)
