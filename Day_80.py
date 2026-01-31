@@ -11,3 +11,5 @@ def pyramid(n):
         print("")
 pyramid(5)
             
+#Diamond in Python
+num = int(input("Enter "))
