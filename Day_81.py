@@ -1,3 +1,4 @@
+
 # Generator function to produce first n prime numbers.
 
 def prime_generator(n):
@@ -26,3 +27,24 @@ n = int(input("Enter number of primes: "))
 
 for prime in prime_generator(n):
     print(prime, end=" ")
+
+
+
+# Checking the prime number
+def prime_no(n):
+    if n < 2:
+        return False  # numbers < 2 are not prime
+
+    for i in range(2, n):   # check divisibility from 2 to n-1
+        if n % i == 0:
+            return False    # divisible → not prime
+
+    return True  # no divisor found → prime
+
+
+num = int(input("Enter a Number: "))
+
+if prime_no(num):
+    print("Prime")
+else:
+    print("Not Prime")
