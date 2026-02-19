@@ -7,3 +7,16 @@
 text = "I love Python"
 words = text.split()
 print(words)
+
+data = "apple,banana,mango"
+result = data.split(",")
+print(result)
+
+# join() → Combine List into a String
+words = ['I', 'love', 'Python']
+sentence = " ".join(words)
+print(sentence)
+
+items = ['apple', 'banana', 'mango']
+result = "-".join(items)
+print(result)
